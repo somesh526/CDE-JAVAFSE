@@ -14,3 +14,8 @@
 - [Validate Email](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Validate%20Email)
 - [Greetings DOM](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Greetings)
 - [Employee Experience](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Employee%20Experience)
+- [Bootstrap Navigation bar](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Bootstrap%20navigation)
+- [Contact Us](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Contact%20us)
+- [Page Layout](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Page%20Layout)
+- [Responsive webpage](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Responsive%20Webpage)
+- [BS Feedback form](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/BS%20feedback%20form)
