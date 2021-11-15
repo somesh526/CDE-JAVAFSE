@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="billcalc.css">
+        <script>
+            function calculateTotalprice(){
+             var z = document.getElementById("price").value;
+             var y = document.getElementById("qty").value;
+             document.getElementById("totalprice").innerHTML = z*y;
+             return false;
+            }
+         </script>
+    </head>
+    <body>
+        <div class="container">
+        <h1>Bill Calculator</h1>
+        <form onsubmit="return calculateTotalprice();return false;">
+        <table>
+              <tr>
+                <td>
+                    <label>Product Name</label>
+                    
+                </td>
+                <td>
+                    <input type="text" id="productName" placeholder="Product Name" required>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                    <label for="price">Product Price in Rs</label>
+                    
+                </td>
+                <td>
+                    <input type="number" id="price" placeholder="Product Price" required>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                    <label for="qty">Quantity</label>
+                    
+                </td>
+                <td>
+                    <input type="number" min="1" id="qty" placeholder="Enter quantity" required>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                    <label for="totalprice">Total Price in Rs</label>
+                    
+                </td>
+                <td>
+                    <output type="text" id="totalprice" for="price qty" required></output>
+                </td>
+              </tr>
+              <tr>
+                  <td colspan="2">
+                      <input type="submit" id="submit">
+                  </td>
+              </tr>
+        </table>
+        </form>
+        </div>
+    </body>
+</html>
