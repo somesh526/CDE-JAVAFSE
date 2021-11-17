@@ -16,6 +16,18 @@
 - [Validate Email](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Validate%20Email)
 - [Greetings DOM](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Greetings)
 - [Employee Experience](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Employee%20Experience)
+### **jQuery**
+- [Load jQuery](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Load%20jquery)
+- [Welcome Message](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Welcome%20Message)
+- [Three Divisions](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Three%20Divisions)
+- [Select the Boxes](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Select%20the%20boxes)
+- [Customer Data](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/customer%20data)
+- [Vertical Menu](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Vertical%20menu)
+- [Get JSON data](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Get%20JSON%20data)
+- [Error Message](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Error%20message)
+- [Login Form](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Login%20form)
+- [Alternate rows](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Alternate%20rows)
+- [Ice Cream Flavours](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/ice%20cream%20flavours)
 ### **Bootstrap**
 - [Bootstrap Navigation bar](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Bootstrap%20navigation)
 - [Contact Us](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Contact%20us)
