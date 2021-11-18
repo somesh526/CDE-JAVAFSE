@@ -17,6 +17,7 @@
 - [Greetings DOM](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Greetings)
 - [Employee Experience](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Employee%20Experience)
 - [Validate Pan Card](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Validate%20Pan%20Card)
+- [Prime Number Check](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Prime%20number%20check)
 ### **jQuery**
 - [Load jQuery](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Load%20jquery)
 - [Welcome Message](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Welcome%20Message)
