@@ -3,7 +3,7 @@
 
 ## **User Interface Design:**
 ### **HTML & CSS**
-- [Simple Calculator](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/simple%20Calculator)
+- [Simple Calculator]()
 - [Learning Material](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Learning%20material%20styling)
 - [FeedBack Details](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/feedback%20details)
 - [Bill calculator](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Bill%20Calculator)
