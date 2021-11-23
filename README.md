@@ -39,5 +39,5 @@
 
 ## **SQL Programming:**
 ### **Database Management**
-- [Insert Records]()
+- [Insert Records](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/Insert%20Records-%20Department)
 - [Department name]()
