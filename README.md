@@ -39,3 +39,5 @@
 
 ## **SQL Programming:**
 ### **Database Management**
+- [Insert Records]()
+- [Department name]()
