@@ -41,6 +41,6 @@
 ### **Database Management**
 - [Insert Records](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/Insert%20Records-%20Department)
 - [Department name](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/Department%20name%20based%20on%20block%20number)
-- [Student and their department]()
+- [Student and their department](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/Student%20and%20their%20Dept)
 - [Hunger Eats]()
 - [Delivery partner]()
