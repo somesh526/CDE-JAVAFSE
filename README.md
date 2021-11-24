@@ -43,4 +43,4 @@
 - [Department name](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/Department%20name%20based%20on%20block%20number)
 - [Student and their department](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/Student%20and%20their%20Dept)
 - [Hunger Eats](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/Hunger%20Eats)
-- [Delivery partner]()
+- [Delivery partner](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/Delivery%20Partner%20Details)
