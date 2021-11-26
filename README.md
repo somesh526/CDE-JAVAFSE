@@ -46,3 +46,4 @@
 - [Delivery partner](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/Delivery%20Partner%20Details)
 - [Car Rental System]()
 - [Customers having Gmail]()
+- [Car Details based on type & name]()
