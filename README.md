@@ -50,4 +50,4 @@
 - [Car & Owner Details](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/Car%20%26%20Owner%20Details)
 - [Concatenating Details](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/Concatenating%20Details)
 - [Hotel Order](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/Hotel%20Order)
-- [Hotel_info]()
+- [Hotel_info](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/Hotel_info)
