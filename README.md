@@ -51,3 +51,6 @@
 - [Concatenating Details](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/Concatenating%20Details)
 - [Hotel Order](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/Hotel%20Order)
 - [Hotel_info](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/Hotel_info)
+- [Rental Details]()
+- [Password Generation]()
+- [Customer using HDFC bank]()
