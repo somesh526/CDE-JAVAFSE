@@ -55,4 +55,4 @@
 - [Password Generation](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/Password%20Generation)
 - [Customer using HDFC bank](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/Customer%20using%20HDFC)
 ### **PL/SQL**
-- [Insert record using anonymous block]()
+- [Insert record using anonymous block](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/Insert%20Record)
