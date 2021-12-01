@@ -58,5 +58,5 @@
 - [Insert record using anonymous block](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/Insert%20Record)
 - [Update Location](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/Update%20Location)
 - [Area of circle](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/area%20of%20circle)
-- [Insert credit-procedure]()
+- [Insert credit-procedure](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/insert%20%20credit%20procedure)
 - [Select city-procedure]()
