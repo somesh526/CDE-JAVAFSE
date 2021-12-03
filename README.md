@@ -62,3 +62,4 @@
 - [Select city-procedure](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/Select%20city%20procedure)
 - [Insert record - triggers]()
 - [Package with procedure]()
+- [Delete record - triggers]()
