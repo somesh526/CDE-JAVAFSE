@@ -63,3 +63,4 @@
 - [Insert record - triggers]()
 - [Package with procedure]()
 - [Delete record - triggers]()
+- [Display dept name using cursors]()
