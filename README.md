@@ -60,7 +60,7 @@
 - [Area of circle](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/area%20of%20circle)
 - [Insert credit-procedure](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/insert%20%20credit%20procedure)
 - [Select city-procedure](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/Select%20city%20procedure)
-- [Insert record - triggers]()
+- [Insert record - triggers](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/Insert%20Record%20-%20triggers)
 - [Package with procedure]()
 - [Delete record - triggers]()
 - [Display dept name using cursors]()
