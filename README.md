@@ -61,7 +61,7 @@
 - [Insert credit-procedure](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/insert%20%20credit%20procedure)
 - [Select city-procedure](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/Select%20city%20procedure)
 - [Insert record - triggers](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/Insert%20Record%20-%20triggers)
-- [Package with procedure]()
+- [Package with procedure](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/Package%20with%20procedure)
 - [Delete record - triggers]()
 - [Display dept name using cursors]()
 - [Procedures with Exception handling]()
