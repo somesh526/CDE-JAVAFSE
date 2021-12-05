@@ -66,3 +66,4 @@
 - [Display dept name using cursors](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/display%20name%20-%20cursors)
 - [Procedures with Exception handling](https://github.com/somesh526/CDE-JAVAFSE/tree/main/Database%20Management/Procedure%20with%20Exception)
 - [Procedure select invoice-cursors]()
+- [Find authorization-cursors]()
