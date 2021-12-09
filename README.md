@@ -1,7 +1,7 @@
 # CDE-JAVAFSE
 
 
-## **User Interface Design:**
+## **Use Interface Design:**
 ### **HTML & CSS**
 - [Simple Calculator](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/simple%20Calculator)
 - [Learning Material](https://github.com/somesh526/CDE-JAVAFSE/tree/main/User%20Interface%20Design/Learning%20material%20styling)
